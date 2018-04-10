@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hellodocker:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hellodocker.war">
+      <element id="artifact" artifact-name="hellodocker:war exploded" />
+    </root>
+  </artifact>
+</component>
